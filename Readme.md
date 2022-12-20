@@ -409,15 +409,11 @@ However, in this course, we will just go through the most important  basics of G
 
 There are different pull requests workflows with different styles, but the general process is as follows:
 
-- 1. A developer creates the feature in a dedicated branch in their local repo.
-
-- 2. The developer pushes the branch to a GitHub repository.
-
-- 3. The developer files a pull request via GitHub.
-
-- 4. The rest of the team reviews the code, discusses it, and alters it.
-
-- 5. The project maintainer merges the feature into the official repository and closes the pull request.
+1. A developer creates the feature in a dedicated branch in their local repo.
+1. The developer pushes the branch to a GitHub repository.
+1. The developer files a pull request via GitHub.
+1. The rest of the team reviews the code, discusses it, and alters it.
+1. The project maintainer merges the feature into the official repository and closes the pull request.
 
 
 ![](readme_img/zen.png)
