@@ -98,7 +98,7 @@ go version
 ![](readme_img/hugo.png)
 
 #### Windows
-Download [Hugo executable](https://github.com/gohugoio/hugo/releases) (extended version), 
+Download [Hugo executable](https://github.com/gohugoio/hugo/releases) (extended version), [version ~0.100](https://github.com/gohugoio/hugo/releases/download/v0.100.2/hugo_extended_0.100.2_Windows-64bit.zip)
 then [add its path to environment variable](https://www.computerhope.com/issues/ch000549.htm).
 
 #### Linux
