@@ -157,7 +157,7 @@ theme = "ananke"
 ![](readme_img/markdown.png)
 
 #### Markdown language
-Markdown is very simple to learn.
+Markdown is very easy to learn.
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - https://www.makeuseof.com/tag/learning-markdown-write-web-faster/
 
