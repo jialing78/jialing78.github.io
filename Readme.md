@@ -130,6 +130,7 @@ See [themes.gohugo.io](https://themes.gohugo.io/) for a list of themes to consid
 Other free Hugo themes:
 - https://jamstackthemes.dev/ssg/hugo/
 - https://cloudcannon.com/blog/top-10-hugo-themes-for-2022/
+- https://themes.gohugo.io/themes/starter-hugo-academic/
 
 A very popular personal site theme among academic researchers:
 - https://github.com/wowchemy/starter-hugo-academic
