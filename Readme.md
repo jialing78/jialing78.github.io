@@ -208,6 +208,14 @@ Our website should be **responsive**.
 ## Serving pages on localhost 
 ![](readme_img/localhost.png)
 
+## If you cannot build your Hugo website
+
+Mostly likely, you are not using the right version of Hugo. Version around 101 should be ideal.
+
+If you are still stuck, you can checkout the `page-shu-submodule-included` branch of this repo. 
+There will be no submodule issues because submodule files are already included in this branch.
+
+
 ### Live Server
 
 ```shell script
